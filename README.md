@@ -6,7 +6,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-Spaces-F9AB00?logo=huggingface)
 
-**Live Demo:** [Click here to chat with the AI]([Insert your Hugging Face Space URL here])
+**Live Demo:** [Click here to chat with the AI](rayenbm/DevDocs-AI)
 
 ## 📌 Overview
 DevDocs AI is a fully localized Retrieval-Augmented Generation (RAG) application. It allows users to query documentation and receive highly accurate, context-aware answers without relying on paid, closed-source APIs like OpenAI. 
@@ -32,5 +32,5 @@ This application bypasses monolithic design in favor of a decoupled microservice
 
 ### 1. Clone the repository
 ```bash
-git clone [https://github.com/](https://github.com/)[Your-GitHub-Username]/DevDocs-AI.git
+git clone [https://github.com/](https://github.com/)rayenbm04/DevDocs-AI.git
 cd DevDocs-AI
