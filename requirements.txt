@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+langchain-huggingface
+langchain-chroma
+sentence-transformers
+transformers
+torch
+streamlit
+requests
