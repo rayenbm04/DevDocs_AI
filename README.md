@@ -6,7 +6,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-Spaces-F9AB00?logo=huggingface)
 
-**Live Demo:** [Click here to chat with the AI](rayenbm/DevDocs-AI)
+**Live Demo:** [Click here to chat with the AI]([rayenbm/DevDocs-AI](https://huggingface.co/spaces/rayenbm/DevDocs-AI))
 
 ## 📌 Overview
 DevDocs AI is a fully localized Retrieval-Augmented Generation (RAG) application. It allows users to query documentation and receive highly accurate, context-aware answers without relying on paid, closed-source APIs like OpenAI. 
